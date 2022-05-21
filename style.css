@@ -33,7 +33,6 @@ body {
   position: absolute;
   top: 40px;
 
-  /* background-color: #ccc; */
   width: 200px;
   height: 60px;
   text-transform: uppercase;
@@ -46,13 +45,11 @@ body {
   height: 2rem;
   border-radius: 50%;
   border: 3px solid #d4acac;
-  /* margin-top: 7px; */
   margin-right: 10px;
 }
 h2 {
   margin-top: 100px;
   font-size: 3rem;
-  /* font-weight: 500; */
   text-transform: uppercase;
   letter-spacing: 16px;
   line-height: 2.75rem;
@@ -68,7 +65,6 @@ h2 span {
   margin-top: 30px;
   margin-bottom: 60px;
   line-height: 30px;
-  /* font-weight: 600; */
 }
 
 .image {
@@ -120,7 +116,6 @@ button {
 }
 button:hover,
 button:active {
-  /* color: #d58585; */
   background: linear-gradient(
     135deg,
     rgb(233, 152, 152) 0%,
